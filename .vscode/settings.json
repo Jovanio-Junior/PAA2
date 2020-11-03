@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
+    "code-runner.executorMap": {
+        "c": "cd $dir && gcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        "cpp": "cd $dir && g++ $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        "php": "php",
+        "python": "C:\\ProgramData\\Anaconda3\\python.exe",
+    }
+}
